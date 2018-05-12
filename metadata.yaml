@@ -1,0 +1,28 @@
+_repo: Elementary-Theosophy_30134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rogers, L. W. (Louis William)
+    alias: Rogers, Louis William
+    birthdate: 1859
+    deathdate: 1953
+    gutenberg_agent_id: '4861'
+    url: http://www.gutenberg.org/2009/agents/4861
+description: ''
+gutenberg_issued: '2009-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30134'
+  lccn: '17030401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Theosophy'
+title: Elementary Theosophy
+url: http://www.gutenberg.org/ebooks/30134
